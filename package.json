@@ -1,0 +1,37 @@
+{
+  "name": "object-reflector",
+  "version": "0.1.2",
+  "description": "Simple & powerful object reflections",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maierfelix/object-reflector.git"
+  },
+  "keywords": [],
+  "homepage": "http://maierfelix.github.io/object-reflector/",
+  "author": "Felix Maier <xilefmai@gmail.com>",
+  "contributors": [
+    "Felix Maier <xilefmai@gmail.com> (https://github.com/maierfelix)"
+  ],
+  "main": "dist/object-reflector.js",
+  "module": "dist/object-reflector.es.js",
+  "browser": "dist/object-reflector.js",
+  "bugs": {
+    "url": "https://github.com/maierfelix/object-reflector/issues"
+  },
+  "engines": {
+    "node": ">= 6.x"
+  },
+  "scripts": {
+    "build": "rollup -c rollup/config.main.js",
+    "test": "node tests/index.js"
+  },
+  "devDependencies": {
+    "rollup": "^0.50.1",
+    "rollup-plugin-buble": "^0.16.0",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-node-resolve": "^3.0.0"
+  },
+  "dependencies": {}
+}
