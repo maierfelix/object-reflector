@@ -52,7 +52,7 @@ b.data; // -> { color: "red" }
 a.data === b.data; // true
 ```
 
-### Child reflections
+#### Child reflections
 
 This example shows how to change a parent's data from within a child. The previous example showed us how a parent can change it's children, now we do the opposit!
 
