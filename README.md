@@ -1,4 +1,4 @@
-<h1 align="center">Object Reflector <img src="https://i.imgur.com/a20tPCY.png" width="10%"></h1>
+<h1 align="center">Object Reflector</h1>
 
 <div align="center">
   <strong>Simple & powerful object reflections.</strong>
@@ -7,10 +7,15 @@
 <br/>
 
 <div align="center">
+  
+<img src="https://i.imgur.com/a20tPCY.png" width="10%">
+<br/>
   <a href="https://www.npmjs.com/package/object-reflector">
     <img src="https://img.shields.io/npm/v/object-reflector.svg?style=flat-square" alt="NPM Version" />
   </a>
 </div>
+
+<br/>
 
 ## Table of Contents
 - [Features](#features)
