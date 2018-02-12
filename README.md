@@ -1,5 +1,4 @@
-<h1 aling="center"><img src="https://i.imgur.com/a20tPCY.png" width="10%"></h1>
-<h1 align="center">Object Reflector</h1>
+<h1 align="center">Object Reflector <img src="https://i.imgur.com/a20tPCY.png" width="10%"></h1>
 
 <div align="center">
   <strong>Simple & powerful object reflections.</strong>
