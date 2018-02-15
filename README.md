@@ -25,7 +25,7 @@
 - [FAQ](#faq)
 
 ## Features
- - **lightweight**: weighing only ``4kb``
+ - **lightweight**: weighing only ``3kb``
  - **minimal**: there are only 4 methods
  - **powerful**: create powerful references with minimal effort
 
